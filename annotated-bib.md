@@ -2,6 +2,7 @@
 
 Beale, C. M., & Lennon, J. J. (2012). Incorporating uncertainty in predictive species distribution modelling. Philosophical Transactions of the Royal Society of London. Series B, Biological Sciences, 367(1586), 247–258. https://doi.org/10.1098/rstb.2011.0178
 
+* Does a nice job breaking up uncertainty into three classes -- data, model, and predictions -- and breaks up models into three 'families' -- niche-based, demographic, and process-based. However it's worth noting that their use of demographic models as a class doesn't match my use (as of where I am in the paper right now).
 
 Chen, X., Dimitrov, N. B., & Meyers, L. A. (2019). Uncertainty analysis of species distribution models. PLOS ONE, 14(5), e0214190. https://doi.org/10.1371/journal.pone.0214190
 

@@ -14,6 +14,9 @@ Chen, X., Dimitrov, N. B., & Meyers, L. A. (2019). Uncertainty analysis of speci
 * Their take home messages are that their analytic approach is faster than bootstrapping and doesn't include the independence assumption of PPPMs. For their bootstrapping example of the *Aedes aegypti* mosquito, the run took over eight hours, which wouldn't be practical to implement in something like Wallace (I don't think)
 * Ultimately, this was thought provoking, and stimulated some interesting ideas, but I'm not sure if this methodology will be implement or used in my final approach.
 
+Meynard, C. N., Leroy, B., & Kaplan, D. M. (2019). Testing methods in species distribution modelling using virtual species: What have we learnt and what are we missing? Ecography, 42(12), 2021–2036. https://doi.org/10.1111/ecog.04385
+
+
 Myers, B. J. E., Weiskopf, S. R., Shiklomanov, A. N., Ferrier, S., Weng, E., Casey, K. A., Harfoot, M., Jackson, S. T., Leidner, A. K., Lenton, T. M., Luikart, G., Matsuda, H., Pettorelli, N., Rosa, I. M. D., Ruane, A. C., Senay, G. B., Serbin, S. P., Tittensor, D. P., & Beard, T. D. (2021). A New Approach to Evaluate and Reduce Uncertainty of Model-Based Biodiversity Projections for Conservation Policy Formulation. BioScience, 71(12), 1261–1273. https://doi.org/10.1093/biosci/biab094
 
 

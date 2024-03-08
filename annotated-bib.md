@@ -1,5 +1,9 @@
 # Annotated Bibliography
 
+Araújo, M. B., Anderson, R. P., Márcia Barbosa, A., Beale, C. M., Dormann, C. F., Early, R., Garcia, R. A., Guisan, A., Maiorano, L., Naimi, B., O’Hara, R. B., Zimmermann, N. E., & Rahbek, C. (2019). Standards for distribution models in biodiversity assessments. Science Advances, 5(1), eaat4858. https://doi.org/10.1126/sciadv.aat4858
+
+* NB: Make sure to review the Supp Info for this document!!
+
 Beale, C. M., & Lennon, J. J. (2012). Incorporating uncertainty in predictive species distribution modelling. Philosophical Transactions of the Royal Society of London. Series B, Biological Sciences, 367(1586), 247–258. https://doi.org/10.1098/rstb.2011.0178
 
 * Does a nice job breaking up uncertainty into three classes -- data, model, and predictions -- and breaks up models into three 'families' -- niche-based, demographic, and process-based. However it's worth noting that their use of demographic models as a class doesn't match my use (as of where I am in the paper right now).
@@ -21,3 +25,7 @@ Myers, B. J. E., Weiskopf, S. R., Shiklomanov, A. N., Ferrier, S., Weng, E., Cas
 
 
 Zurell, D., Franklin, J., König, C., Bouchet, P. J., Dormann, C. F., Elith, J., Fandos, G., Feng, X., Guillera‐Arroita, G., Guisan, A., Lahoz‐Monfort, J. J., Leitão, P. J., Park, D. S., Peterson, A. T., Rapacciuolo, G., Schmatz, D. R., Schröder, B., Serra‐Diaz, J. M., Thuiller, W., … Merow, C. (2020). A standard protocol for reporting species distribution models. Ecography, ecog.04960. https://doi.org/10.1111/ecog.04960
+
+* This is the ODMAP paper, or the paper the introduces the ODMAP procedure.
+* The authors include "Uncertainty quantification" as one of the sections of ODMAP to be filled out, but they do not necessarily provide any suggested ways / best practices to consider or incorporate uncertainty into SDMs. 
+* Interestingly, they cite Beale and Lennon 2012 as evidence that there are tools for dealing with uncertainty, but this was not me read on the Beale and Lennon paper. As I say above, I thought they did a great job at pointing out the different sources of uncertainty, but not necessarily in identifying how to quantify them.

@@ -3,6 +3,8 @@
 Araújo, M. B., Anderson, R. P., Márcia Barbosa, A., Beale, C. M., Dormann, C. F., Early, R., Garcia, R. A., Guisan, A., Maiorano, L., Naimi, B., O’Hara, R. B., Zimmermann, N. E., & Rahbek, C. (2019). Standards for distribution models in biodiversity assessments. Science Advances, 5(1), eaat4858. https://doi.org/10.1126/sciadv.aat4858
 
 * NB: Make sure to review the Supp Info for this document!!
+* Sources of uncertainty include uncertainty in predictor variables and modeling and parameter uncertainty
+* Uncertainty also includes location uncertainty
 
 Beale, C. M., & Lennon, J. J. (2012). Incorporating uncertainty in predictive species distribution modelling. Philosophical Transactions of the Royal Society of London. Series B, Biological Sciences, 367(1586), 247–258. https://doi.org/10.1098/rstb.2011.0178
 

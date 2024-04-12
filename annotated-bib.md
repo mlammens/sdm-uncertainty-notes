@@ -5,6 +5,7 @@ Araújo, M. B., Anderson, R. P., Márcia Barbosa, A., Beale, C. M., Dormann, C. 
 * NB: Make sure to review the Supp Info for this document!!
 * Sources of uncertainty include uncertainty in predictor variables and modeling and parameter uncertainty
 * Uncertainty also includes location uncertainty
+* In terms of achieving the Gold Standard, the authors assert that error propagation of uncertainty is necessary
 
 Beale, C. M., & Lennon, J. J. (2012). Incorporating uncertainty in predictive species distribution modelling. Philosophical Transactions of the Royal Society of London. Series B, Biological Sciences, 367(1586), 247–258. https://doi.org/10.1098/rstb.2011.0178
 

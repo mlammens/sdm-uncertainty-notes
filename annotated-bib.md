@@ -31,6 +31,12 @@ Meynard, C. N., Leroy, B., & Kaplan, D. M. (2019). Testing methods in species di
 
 Myers, B. J. E., Weiskopf, S. R., Shiklomanov, A. N., Ferrier, S., Weng, E., Casey, K. A., Harfoot, M., Jackson, S. T., Leidner, A. K., Lenton, T. M., Luikart, G., Matsuda, H., Pettorelli, N., Rosa, I. M. D., Ruane, A. C., Senay, G. B., Serbin, S. P., Tittensor, D. P., & Beard, T. D. (2021). A New Approach to Evaluate and Reduce Uncertainty of Model-Based Biodiversity Projections for Conservation Policy Formulation. BioScience, 71(12), 1261–1273. https://doi.org/10.1093/biosci/biab094
 
+Serra‐Diaz, J. M., Borderieux, J., Maitner, B., Boonman, C. C. F., Park, D., Guo, W., Callebaut, A., Enquist, B. J., Svenning, J., & Merow, C. (2024). occTest: An integrated approach for quality control of species occurrence data. Global Ecology and Biogeography, e13847. https://doi.org/10.1111/geb.13847
+
+* occTest is a neat new package that evalutates occurence points
+* how is this related to uncertainty? I think it is related in that the points you include in an analysis likely have an impact on the outcomes (this seems obvious, but I'm not actually aware of that many analyses that test to robustness of this). 
+* seems to me that a test of uncertainty could include analyses with vs without various thresholds of filtering
+* TO-DO - consider how I might incorporate this package into uncertainty analyses
 
 Stoklosa, J., Daly, C., Foster, S. D., Ashcroft, M. B., & Warton, D. I. (2015). A climate of uncertainty: Accounting for error in climate variables for species distribution models. Methods in Ecology and Evolution, 6, 412–423. https://doi.org/10.1111/2041-210X.12217
 

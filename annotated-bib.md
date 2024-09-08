@@ -38,9 +38,12 @@ Serra‐Diaz, J. M., Borderieux, J., Maitner, B., Boonman, C. C. F., Park, D., G
 * seems to me that a test of uncertainty could include analyses with vs without various thresholds of filtering
 * TO-DO - consider how I might incorporate this package into uncertainty analyses
 
+Steen, B., Broennimann, O., Maiorano, L., & Guisan, A. (2024). How sensitive are species distribution models to different background point selection strategies? A test with species at various equilibrium levels. Ecological Modelling, 493, 110754. https://doi.org/10.1016/j.ecolmodel.2024.110754
+
+
 Stoklosa, J., Daly, C., Foster, S. D., Ashcroft, M. B., & Warton, D. I. (2015). A climate of uncertainty: Accounting for error in climate variables for species distribution models. Methods in Ecology and Evolution, 6, 412–423. https://doi.org/10.1111/2041-210X.12217
 
-
+* Need to read this paper in full, but last sentence of the abstract is important - "Our results indicate that the best approach is to use stratified random in environmental space BP sampling if accuracy is essential, and fully random in environmental space BP sampling if model stability is essential."
 
 Zurell, D., Franklin, J., König, C., Bouchet, P. J., Dormann, C. F., Elith, J., Fandos, G., Feng, X., Guillera‐Arroita, G., Guisan, A., Lahoz‐Monfort, J. J., Leitão, P. J., Park, D. S., Peterson, A. T., Rapacciuolo, G., Schmatz, D. R., Schröder, B., Serra‐Diaz, J. M., Thuiller, W., … Merow, C. (2020). A standard protocol for reporting species distribution models. Ecography, ecog.04960. https://doi.org/10.1111/ecog.04960
 
